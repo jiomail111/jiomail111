@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jiomail111
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Dart Programming
+- 💞️ I’m looking to collaborate on Android and IOS App development
+- 📫 How to reach me jiomail111@gmail.com
